@@ -18,12 +18,22 @@ Final Cost
 
 Sample Output
 Enter the price of item 1: 20
+
+
 Enter the price of item 2: 25
+
+
 Enter the price of item 3: 15
 
 ---Billing Details---
+
+
 Total Cost:$60.00
+
+
 Discount:$6.00
+
+
 Final Cost:$54.00
 
 
