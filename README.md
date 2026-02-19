@@ -16,13 +16,15 @@ A grocery store wants to calculate the total cost of items purchased by a custom
 
 
 3.Apply Discount (Conditional):
-   1.We check if the Initial Total is more than $50.
 
 
-   2.If it is, we calculate a 10% discount and subtract it from the total.
+     1.We check if the Initial Total is more than $50.
+
+
+    2.If it is, we calculate a 10% discount and subtract it from the total.
    
 
-   3.If it is $50 or less, no discount is applied.
+    3.If it is $50 or less, no discount is applied.
 
 
 4.The script displays the final amount the customer needs to pay, formatted as currency.
