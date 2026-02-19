@@ -1,9 +1,13 @@
 # Grocery-Billing-System_AashishKumar_202501100700002
+
+
 Problem Statement:
 A grocery store wants to calculate the total cost of items purchased by a customer.
 - Calculate the total cost of 3 different items.
 - Add a 10% discount if the total exceeds $50.
 - Display the final payable amount.
+
+
 Approach
 Steps followed in the program:
 The user enters the prices of three items.
@@ -15,6 +19,7 @@ The program displays the billing details:
 Total Cost
 Discount
 Final Cost
+
 
 Sample Output
 Enter the price of item 1: 20
