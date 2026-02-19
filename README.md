@@ -8,7 +8,7 @@ A grocery store wants to calculate the total cost of items purchased by a custom
 - Display the final payable amount.
 
 
-Approach
+Approch
 Steps followed in the program:
 The user enters the prices of three items.
 The program adds all three item prices to calculate the total cost.
@@ -23,22 +23,13 @@ Final Cost
 
 Sample Output
 Enter the price of item 1: 20
-
-
 Enter the price of item 2: 25
-
-
 Enter the price of item 3: 15
 
+
 ---Billing Details---
-
-
 Total Cost:$60.00
-
-
 Discount:$6.00
-
-
 Final Cost:$54.00
 
 
